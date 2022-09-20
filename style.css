@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+}
+div a
+{
+    margin: 2px 5px;
+    padding: 2px 5px;
+    color: aliceblue;
+    text-decoration: none;
+   
+}
+div nav{
+    width: 100%;
+    background-color:rgb(186, 71, 71);
+}
+#d1{
+    background-image: url("img/background.png");
+    width: 100%;
+    height: 400px;
+    float: none;
+    text-align: center;
+    margin-top: 2px;
+}
+
+#d1 input {
+    margin: 250px 20px ;
+    background-color: brown;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+}
+.d1 h2{
+    
+}
+
+
+.cen{
+    font-size: large;
+    margin: 20px 0;
+    font-weight: bold;
+}
+table{
+    border:2px solid brown;
+    border-collapse: collapse;
+    margin: 5px 400px;
+    width: 40%;
+}
+table th,td,tr{
+    border:2px solid brown;
+    border-collapse: collapse;
+    text-align: center;
+}
+table input {
+    background-color: brown;
+    color: aliceblue;
+    border-radius:5px;
+}
+.table_img{
+    width: 20px;
+    height: 20px;
+}
+
+.d4,.d5,.d6,.d7,.d8
+{
+    width: 300px;
+    height: 319px;
+    background-color: rgba(66, 62, 57, 0.582);  
+    margin: 40px 40px;
+    float: left;
+    
+}
+.d7,.d8{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(135, 154, 148);
+    text-align: center;
+}
+.d8{
+    background-color: rgb(214, 207, 111);
+    
+}
+
+.head_course{
+    font-style:italic;
+    font-weight:bolder;
+}
+#course_button{
+    margin: 50px 0;
+    width: 300px;
+    background-color: rgb(150, 51, 51);
+    color: aliceblue;
+}
+#big_div{
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-image: url("img/back2.jpg");
+}
+.d7 input{
+    width:400px ;
+    margin: 100px 0;
+    background-color: brown;
+    color: aliceblue;
+}
+.d7 p
+{
+    color: aliceblue;
+    margin-top: 20px;
+}
+.d8 input
+{
+    width:400px ;
+    margin: 100px 0;
+    background-color: brown;
+    color: aliceblue;
+    
+}
+.d8 p
+{
+    margin-top: 20px;
+    color: aliceblue;
+}
+
